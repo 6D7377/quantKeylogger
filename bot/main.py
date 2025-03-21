@@ -10,7 +10,7 @@ from bson.objectid import ObjectId
 logging.basicConfig(level=logging.INFO)
 
 # Токен бота
-API_TOKEN = '7201912945:AAGKki4AoJafcdO9JtMEqstbLTK9ceuD2_U'
+API_TOKEN = ''
 
 # Список дозволених користувачів
 ALLOWED_USERS = {837420432}  # Заміни на реальні ID користувачів
