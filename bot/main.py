@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 API_TOKEN = ''
 
 # Список дозволених користувачів
-ALLOWED_USERS = {837420432}  # Заміни на реальні ID користувачів
+ALLOWED_USERS = {00000000}  # Заміни на реальні ID користувачів
 
 # Підключення до MongoDB
 MONGO_URI = "mongodb+srv://own:UR%40eL97PadVTTFjG@cluster0.uznqi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Заміни на ваш URI
